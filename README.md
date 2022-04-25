@@ -9,7 +9,7 @@
 
 # Download
 
-https://github.com/EgorSlayer/AUTOTRADER/releases/tag/v1.0.0
+https://github.com/autotraderbot/AUTOTRADER/releases/tag/1.0.0
 
 # Backtest
 
