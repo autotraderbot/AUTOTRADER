@@ -21,7 +21,7 @@ AUTOTRADER supports running trading simulations. Backtesting is the general meth
 
 
 # Settings
-
+Initial settings are conservative and provide 10 % per month as an average income.
 ## Test
 
 Test is an option that enables to visualise entry points which trigger the bot to open and close positions.
