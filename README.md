@@ -71,4 +71,4 @@ A trailing is a modification of a typical order that can be set at a defined per
 
 # Pricing
 
-AUTOTRADER is free to download with it's backtest feature but real trading on exchanges costs 500 $ per 3 month subscribtion period. To subscribe write to autotradersup@protonmail.com
+AUTOTRADER is free to download with it's backtest feature but real trading on exchanges costs 500 $ per 2 month subscribtion period. To subscribe write to autotradersup@protonmail.com
