@@ -26,8 +26,7 @@ Initial settings are conservative and provide 10 % per month as an average incom
 
 Test is an option that enables to visualise entry points which trigger the bot to open and close positions.
 
-![testETH](https://user-images.githubusercontent.com/66214013/165062969-5db45ed2-99f2-4d36-ad9c-958833b093b8.png)
-
+![testXTZ](https://user-images.githubusercontent.com/104389384/165692155-64572e2f-fbdf-493f-a041-87f0c5f9daf4.png)
 
 
 ## API keys
