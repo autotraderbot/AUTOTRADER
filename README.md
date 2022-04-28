@@ -22,16 +22,6 @@ AUTOTRADER supports running trading simulations. Backtesting is the general meth
 
 # Settings
 Initial settings are conservative and provide 10 % per month as an average income.
-## Test
-
-Test is an option that enables to visualise entry points which trigger the bot to open and close positions.
-
-![testXTZ](https://user-images.githubusercontent.com/104389384/165693293-b53bad5e-5867-4fb0-8a47-99d04ee5d12a.png)
-
-
-
-## API keys
-Bot uses API keys to connect to your account on exchanges. It can be settled in the settings menu. You can find your API and secret keys in your exchange profile API settings.
 
 ## Indicators
 ### RSI
@@ -66,5 +56,16 @@ A trailing is a modification of a typical order that can be set at a defined per
 **Coin num** defines a number of coins which can be traded at the same moment.\
 **Tg bot API** defines telegram bot token to notify you.\
 **User list** is a list of telegram user's id to nitify with telegram bot.
+
+## Test
+
+Test is an option that enables to visualise entry points which trigger the bot to open and close positions.
+
+![testXTZ](https://user-images.githubusercontent.com/104389384/165693293-b53bad5e-5867-4fb0-8a47-99d04ee5d12a.png)
+
+## API keys
+Bot uses API keys to connect to your account on exchanges. It can be settled in the settings menu. You can find your API and secret keys in your exchange profile API settings.
+
+
 
 
