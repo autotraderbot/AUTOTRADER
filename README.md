@@ -49,8 +49,6 @@ Trend lines is an indicatopr based on ‘Support’ and ‘resistance’ levels 
 
 ![TLXRPperiod48](https://user-images.githubusercontent.com/104389384/165706402-87a7d874-747f-4060-9e0e-d07fe825e4d1.png)
 
-
-
 ## Trailing
 
 A trailing is a modification of a typical order that can be set at a defined percentage or dollar amount away from a security's current market price. For a buy position, an investor places a trailing below the current market price to buy at lower price. For a sell position, an investor places the trailing stop above the current market price to sell at a higher price. Trailing is supported only for real trading and is not considered in backtests.
@@ -69,6 +67,4 @@ A trailing is a modification of a typical order that can be set at a defined per
 **Tg bot API** defines telegram bot token to notify you.\
 **User list** is a list of telegram user's id to nitify with telegram bot.
 
-# Pricing
 
-AUTOTRADER is free to download with it's backtest feature but real trading on exchanges costs 500 $ per 2 month subscribtion period. To subscribe write to autotradersup@protonmail.com
