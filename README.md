@@ -47,7 +47,8 @@ Moving average convergence divergence (MACD) is a trend-following momentum indic
 
 Trend lines is an indicatopr based on ‘Support’ and ‘resistance’ levels which are terms for two respective levels on a price chart that appear to limit the market’s range of movement. The support level is where the price regularly stops falling and bounces back up, while the resistance level is where the price normally stops rising and dips back down. The levels exist as a product of supply and demand – if there are more buyers than sellers, the price could rise, and if there are more sellers than buyers, the price tends to fall. Bot allows to add as many trading lines as you want. The parameters that define trends are **period** which is defined in hours, **tl_low** and **tl_high** are defined in pecents relative to total distance between support and resistance levels. For example you can use small periods (10-48 hours) to define main traiding and long periods (720 hours ~ 1 month) to define an antisqueeze mechanism.
 
-![изображение](https://user-images.githubusercontent.com/66214013/164997884-c3ec5944-f408-4116-ad6a-549b19e194ab.png)
+![testXTZ](https://user-images.githubusercontent.com/104389384/165693830-a54808b6-3ed7-43c1-803d-ed928fac1e30.png)
+
 
 
 ## Trailing
