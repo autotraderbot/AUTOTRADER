@@ -1,9 +1,9 @@
 
 
-                                     /   | / / / /_  __/ __ \/_  __/ __ \/   |  / __ \/ ____/ __ \       
-                                    / /| |/ / / / / / / / / / / / / /_/ / /| | / / / / __/ / /_/ /       
-                                   / ___ / /_/ / / / / /_/ / / / / _, _/ ___ |/ /_/ / /___/ _, _/        
-                                  /_/  |_\____/ /_/  \____/ /_/ /_/ |_/_/  |_/_____/_____/_/ |_|
+                        /   | / / / /_  __/ __ \/_  __/ __ \/   |  / __ \/ ____/ __ \       
+                       / /| |/ / / / / / / / / / / / / /_/ / /| | / / / / __/ / /_/ /       
+                      / ___ / /_/ / / / / /_/ / / / / _, _/ ___ |/ /_/ / /___/ _, _/        
+                     /_/  |_\____/ /_/  \____/ /_/ /_/ |_/_/  |_/_____/_____/_/ |_|
 
 ## AUTOTRADER is a tool for automated trading on crypto exchange. This bot uses technical analysis to identify a buy/sell entry points. In order to check your settings you can use simulation option where any trading strategy may be tested. Bot provides trading on binance and kucoin (other platforms are coming soon). Algotithm works with 1 hour timeframe (other timeframes are comming soon). Once bot is launched it creates data.pkl file and data folder in the same directory with bot. Make simulations of trading to check your strategy and launch it on real crypto market! Trading bots are profitable for as long as you can configure them properly. This bot may have profits 1 - 100 % per month depending on settings and market. DO NOT CONSIDER AUTOTRADER AS A MAGIC BOX, USE IT WISELY AND MAKE BACKTESTS OF YOUR SETTINGS BEFORE TO TRADE IN REAL MARKET!!!
 
