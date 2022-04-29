@@ -55,12 +55,11 @@ A trailing is a modification of a typical order that can be set at a defined per
 **Stop loss** defines a percent to sell with minimum lesion.\
 **Coin num** defines a number of coins which can be traded at the same moment.\
 **Tg bot API** defines telegram bot token to notify you.\
-**User list** is a list of telegram user's id to nitify with telegram bot.
+**User list** is a list of telegram user's id to notify with telegram bot.
 
-## Test
+## Market analyzing
 
-Test is an option that enables to visualise entry points which trigger the bot to open and close positions.
-
+AUTOTRADER's functionality provides live analysis of price data of any trading asset. 
 ![testXTZ](https://user-images.githubusercontent.com/104389384/165693293-b53bad5e-5867-4fb0-8a47-99d04ee5d12a.png)
 
 ## API keys
