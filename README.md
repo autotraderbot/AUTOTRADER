@@ -1,6 +1,6 @@
 
 
-![лого](https://user-images.githubusercontent.com/104389384/165990949-39742cfd-f19a-4df5-8d28-53dd91a84812.PNG)
+![лого](https://user-images.githubusercontent.com/104389384/165991261-8f289669-eccc-476b-9c22-86137a47d180.PNG)
 
                      
 
