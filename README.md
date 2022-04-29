@@ -23,20 +23,25 @@ AUTOTRADER supports running trading simulations. Backtesting is the general meth
 Initial settings are conservative and provide 10 % per month as an average income. Flexibility of settings allows to tune trading algorithm with respect to different market trends (bullish, bearish).
 
 ## Indicators
-### RSI
-The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. Default **period** of RSI is 14 but you can increase it in order to find a better extremum points. Also there are **overbought level** and **oversold level** parameters which have standart values 30 and 70 respectively. You can find more at https://www.investopedia.com/terms/r/rsi.asp.
-
-### MACD
-Moving average convergence divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA. In MACD setting section you are able to define a **trend length** parameter which indicates how many hours must be passed scince previous intercection of EMAs. Algorithm finds an ongoing intersection in stead of using allready occured intersection in order to increase effectiveness.
-
-![macdATOM](https://user-images.githubusercontent.com/104389384/165700345-e2ed8e8f-b512-4686-b136-e64dc0dc416d.png)
-
 
 ### Trend lines
 
 Trend lines is an indicatopr based on ‘Support’ and ‘resistance’ levels which are terms for two respective levels on a price chart that appear to limit the market’s range of movement. The support level is where the price regularly stops falling and bounces back up, while the resistance level is where the price normally stops rising and dips back down. The levels exist as a product of supply and demand – if there are more buyers than sellers, the price could rise, and if there are more sellers than buyers, the price tends to fall. Bot allows to add as many trading lines as you want. The parameters that define trends are **period** which is defined in hours, **tl_low** and **tl_high** are defined in pecents relative to total distance between support and resistance levels. For example you can use small periods (10-48 hours) to define main trading channels and long periods (720 hours ~ 1 month) to define an antisqueeze mechanism.
 
 ![TLXRPperiod48](https://user-images.githubusercontent.com/104389384/165706402-87a7d874-747f-4060-9e0e-d07fe825e4d1.png)
+
+### MACD
+Moving average convergence divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA. In MACD setting section you are able to define a **trend length** parameter which indicates how many hours must be passed scince previous intercection of EMAs. Algorithm finds an ongoing intersection in stead of using allready occured intersection in order to increase effectiveness.
+
+![macdATOM](https://user-images.githubusercontent.com/104389384/165700345-e2ed8e8f-b512-4686-b136-e64dc0dc416d.png)
+
+### RSI
+The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. Default **period** of RSI is 14 but you can increase it in order to find a better extremum points. Also there are **overbought level** and **oversold level** parameters which have standart values 30 and 70 respectively. You can find more at https://www.investopedia.com/terms/r/rsi.asp.
+
+
+
+
+
 
 ## Trailing
 
