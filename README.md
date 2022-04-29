@@ -17,9 +17,19 @@ AUTOTRADER supports running trading simulations. Backtesting is the general meth
 ![res2021-01-0100-00-00-2021-01-3123-00-00](https://user-images.githubusercontent.com/66214013/164999191-aaf8feb5-c2ae-4725-a4d2-435d0d34a339.png)
 
 
+## Market analysis
+
+AUTOTRADER's functionality provides live technical analysis of price data of any trading asset.  
+![testXTZ](https://user-images.githubusercontent.com/104389384/165693293-b53bad5e-5867-4fb0-8a47-99d04ee5d12a.png)
+
 
 # Settings
 Initial settings are conservative and provide 10 % per month as an average income. Flexibility of settings allows to tune trading algorithm with respect to different market trends (bullish, bearish).
+
+
+## API keys
+Bot uses API keys to connect to your account on exchanges. It can be settled in the settings menu. You can find your API and secret keys in your exchange API settings.
+
 
 ## Indicators
 
@@ -60,13 +70,6 @@ A trailing is a modification of a typical order that can be set at a defined per
 **Tg bot API** defines telegram bot token to notify you.\
 **User list** is a list of telegram user's id to notify with telegram bot.
 
-## Market analysis
-
-AUTOTRADER's functionality provides live technical analysis of price data of any trading asset.  
-![testXTZ](https://user-images.githubusercontent.com/104389384/165693293-b53bad5e-5867-4fb0-8a47-99d04ee5d12a.png)
-
-## API keys
-Bot uses API keys to connect to your account on exchanges. It can be settled in the settings menu. You can find your API and secret keys in your exchange profile API settings.
 
 
 
