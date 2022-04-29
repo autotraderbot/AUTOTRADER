@@ -20,7 +20,7 @@ AUTOTRADER supports running trading simulations. Backtesting is the general meth
 
 
 # Settings
-Initial settings are conservative and provide 10 % per month as an average income. Setting include a big amount of parameters which may be changed in **Settings** from main menu.
+Initial settings are conservative and provide 10 % per month as an average income. **Settings** include a big amount of parameters listed below.
 
 ## Indicators
 ### RSI
