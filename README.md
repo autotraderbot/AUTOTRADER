@@ -3,7 +3,7 @@
 ![лого](https://user-images.githubusercontent.com/104389384/165993044-dc5a7e86-14c6-497d-8c22-b9277e477fba.PNG)
      
 
-## AUTOTRADER is a tool for automated trading on crypto exchange and it's analisys. Bot supports unlimited number of connected accounts. Algorithm of AUTOTRADER suggests long term trading and provides the result within a month of working. This bot uses technical analysis to identify a buy/sell entry points and is capable of watching several assets at once. In order to check your settings you can use simulation option where any trading strategy may be tested. Bot provides trading on binance and kucoin (other platforms are coming soon). Algotithm works with 1 hour timeframe (other timeframes are comming soon). Once bot is launched it creates data.pkl file and data folder in the same directory with bot. Make simulations of trading to check your strategy and launch it on real crypto market! Trading bots are profitable for as long as you can configure them properly. This bot may have profits 1 - 100 % per month depending on settings and market. DO NOT CONSIDER AUTOTRADER AS A MAGIC BOX, USE IT WISELY AND MAKE BACKTESTS OF YOUR SETTINGS BEFORE TO TRADE IN REAL MARKET!!!
+## AUTOTRADER is a tool for automated trading on crypto exchange and it's analisys. Bot supports unlimited number of connected accounts. Algorithm of AUTOTRADER suggests long term trading and provides the result within a month of working. This bot uses technical analysis to identify a buy/sell entry points and is capable of watching several assets at once. In order to check your settings you can use simulation option where any trading strategy may be tested. Bot provides trading on binance and kucoin (other platforms are coming soon). Algotithm works with 1 hour timeframe (other timeframes are comming soon). Make simulations of trading to check your strategy and launch it on real crypto market! Trading bots are profitable for as long as you can configure them properly. This bot may have profits 1 - 100 % per month depending on settings and market. DO NOT CONSIDER AUTOTRADER AS A MAGIC BOX, USE IT WISELY AND MAKE BACKTESTS OF YOUR SETTINGS BEFORE TO TRADE IN REAL MARKET!!!
 
 # Download
 
@@ -24,7 +24,7 @@ AUTOTRADER's functionality provides live technical analysis of price data of any
 
 
 # Settings
-Initial settings are conservative and provide 10 % per month as an average income. Flexibility of settings allows to tune trading algorithm with respect to different market trends (bullish, bearish).
+Initial settings are conservative and provide 10 % per month as an average income. Flexibility of settings allows to tune trading algorithm with respect to different market trends (bullish, bearish). Once bot is launched it creates data.pkl file and data folder in the same directory with bot. data.pkl contains all the settings parameters and data folder stores csv data. 
 
 
 ## API keys
