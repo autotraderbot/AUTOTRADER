@@ -15,7 +15,6 @@ https://github.com/autotraderbot/AUTOTRADER/releases/tag/1.0.0
 
 AUTOTRADER supports running trading simulations. Backtesting is the general method for seeing how well a strategy or model would have done ex-post. Backtesting assesses the viability of a trading strategy by discovering how it would play out using historical data. If backtesting works, traders and analysts may have the confidence to employ it going forward.
 
-![изображение](https://user-images.githubusercontent.com/66214013/164999174-0e45d185-ddd9-43bc-8ffb-2c22838d6423.png)
 ![res2021-01-0100-00-00-2021-01-3123-00-00](https://user-images.githubusercontent.com/66214013/164999191-aaf8feb5-c2ae-4725-a4d2-435d0d34a339.png)
 
 
