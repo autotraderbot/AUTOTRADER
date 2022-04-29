@@ -57,7 +57,7 @@ A trailing is a modification of a typical order that can be set at a defined per
 **Tg bot API** defines telegram bot token to notify you.\
 **User list** is a list of telegram user's id to notify with telegram bot.
 
-## Market analyzing
+## Market analysis
 
 AUTOTRADER's functionality provides live analysis of price data of any trading asset. 
 ![testXTZ](https://user-images.githubusercontent.com/104389384/165693293-b53bad5e-5867-4fb0-8a47-99d04ee5d12a.png)
