@@ -59,7 +59,7 @@ A trailing is a modification of a typical order that can be set at a defined per
 
 ## Market analysis
 
-AUTOTRADER's functionality provides live analysis of price data of any trading asset. 
+AUTOTRADER's functionality provides live technical analysis of price data of any trading asset.  
 ![testXTZ](https://user-images.githubusercontent.com/104389384/165693293-b53bad5e-5867-4fb0-8a47-99d04ee5d12a.png)
 
 ## API keys
