@@ -16,7 +16,7 @@ AUTOTRADER supports running trading simulations. Backtesting is the general meth
 ![res2021-01-0100-00-00-2021-01-3123-00-00](https://user-images.githubusercontent.com/66214013/164999191-aaf8feb5-c2ae-4725-a4d2-435d0d34a339.png)
 
 
-## Market analysis
+# Market analysis
 
 AUTOTRADER's functionality provides live technical analysis of price data of any trading asset and this is absolutely free! You can ensure in bot's efficiency simply by following it's signals. 
 
