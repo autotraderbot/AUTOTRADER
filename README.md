@@ -69,8 +69,8 @@ A trailing is a modification of a typical order that can be set at a defined per
 **Take profit** defies a percent of desired profit as a signal to sell.\
 **Stop loss** defines a percent to sell with minimum lesion.\
 **Coin num** defines a number of coins which can be traded at the same moment.\
-**Tg bot API** defines telegram bot token to notify you.\
-**User list** is a list of telegram user's id to notify with telegram bot.
+**Tg bot API** defines telegram bot token to notify you. tg bot token may be obtained thru https://t.me/Bott_Father.\
+**User list** is a list of telegram user's id to notify with telegram bot. Use tg bot @userinfobot to find your telegram id.
 
 
 
