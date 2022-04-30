@@ -11,7 +11,7 @@ https://github.com/autotraderbot/AUTOTRADER/releases/tag/1.0.0
 
 # Notifications
 
-AUTOTRADER privides telegram notifications of trading signals for customers.
+AUTOTRADER allows to turn on telegram notifications of trading signals for customers.
 
 # Backtest
 
