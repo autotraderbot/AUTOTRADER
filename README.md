@@ -8,6 +8,11 @@
 # Download
 https://github.com/autotraderbot/AUTOTRADER/releases/tag/1.0.0
 
+
+# Notifications
+
+AUTOTRADER privides telegram notifications of trading signals for customers.
+
 # Backtest
 
 AUTOTRADER supports running trading simulations. Backtesting is the general method for seeing how well a strategy or model would have done ex-post. Backtesting assesses the viability of a trading strategy by discovering how it would play out using historical data. If backtesting works, traders and analysts may have the confidence to employ it going forward. **Backtest strategy** function reproduces the same behavior of the bot as if it was trading during the simulation period. Trailing option is considered only during real traiding.
