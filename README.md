@@ -48,8 +48,7 @@ Moving average convergence divergence (MACD) is a trend-following momentum indic
 ![macdATOM](https://user-images.githubusercontent.com/104389384/165700345-e2ed8e8f-b512-4686-b136-e64dc0dc416d.png)
 
 ### RSI
-The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. Default **period** of RSI is 14 but you can increase it in order to find a better extremum points. Also there are **overbought level** and **oversold level** parameters which have standart values 30 and 70 respectively. You can find more at https://www.investopedia.com/terms/r/rsi.asp.
-
+The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. Default **period** of RSI is 14 but you can increase it in order to find a better extremum points. Also there are **overbought level** and **oversold level** parameters which have standart values 30 and 70 respectively.
 ![RSIATOM](https://user-images.githubusercontent.com/104389384/166115719-9870b214-ae36-4af4-9529-db555a792b36.png)
 
 
