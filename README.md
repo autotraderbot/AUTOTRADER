@@ -70,7 +70,11 @@ A trailing is a modification of a typical order that can be set at a defined per
 **Stop loss** defines a percent to sell with minimum lesion.\
 **Coin num** defines a number of coins which can be traded at the same moment.\
 **Tg bot API** defines telegram bot token to notify you. tg bot token may be obtained thru https://t.me/Bott_Father. \
-**User list** is a list of telegram user's id to notify with telegram bot. Use tg bot @userinfobot to find your telegram id.
+**User list** is a list of telegram user's id to notify with telegram bot. Use tg bot @userinfobot to find your telegram id. \
+
+
+DISCLAIMER 
+AUTOTRADER does not provide financial, investment, legal or any other professional advices. AUTOTRADER provides the software. AUTOTRADER - is not a broker, a financial consultant, an investment consultant or a portfolio manager. Nothing in the software should be interpreted as investment recommendations (for example, recommendations regarding whether to purchase currency or other tools). You recognize and agree that AUTOTRADER is not responsible for using any information that you receive inside the software. Your decisions based on the technologies within the software or services in the software, or your interpretations of data found in the software are your own strategy for which you are fully responsible.
 
 
 
