@@ -5,7 +5,7 @@
 ## AUTOTRADER – automated trading solution for crypto exchanges and it's analysis. The Bot supports unlimited number of connected accounts. It is a powerful tool for professional traders, on the other hand, it is easy to use for beginners. Algorithm of AUTOTRADER suggests long term trading strategies and provides the result minimum within a month of working. This bot uses technical analysis to identify a buy/sell entry points and is capable of watching several assets simultaneously. In order to verify customized settings, you can use simulation option where any trading strategy may be tested. At the moment Bot provides trading algorithms for Binance and Kucoin exchanges (other platforms are coming soon). Algorithm works with 1 hour timeframe (other timeframe options are coming soon). Create simulations/testing environments to proof your strategy and launch it on real crypto market. Trading bots are profitable for as long as you can configure them properly. AUTOTRADER generates profits 1 - 100 % per month depending on settings and the market. Set custom automated trades and never miss a rally or get caught in a dip. AUTOTRADER obsessively seeks out effective market indicators to enable smart allocation of funds while putting you in control of your trading machine.
 
 # Download
-https://github.com/autotraderbot/AUTOTRADER/releases/tag/1.0.0
+https://github.com/autotraderbot/AUTOTRADER/releases/tag/1.0.1
 
 
 # Notifications
